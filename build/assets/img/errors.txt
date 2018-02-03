@@ -1,0 +1,5 @@
+[2018-02-03 11:15:54] layer "google+": Expected end of input but "+" found.
+[2018-02-03 11:15:54] layer "google+": Expected end of input but "+" found.
+[2018-02-03 11:15:54] layer "google+": Expected end of input but "+" found.
+[2018-02-03 11:15:54] layer "google+": Expected end of input but "+" found.
+[2018-02-03 11:15:54] layer "+6281235966914": Expected Either a default asset specification or a layer asset specification but "+" found.
